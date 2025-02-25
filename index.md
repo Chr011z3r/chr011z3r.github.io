@@ -12,10 +12,10 @@ I am currently a student rapidly approaching the end of my degree in Cybersecuri
 
 # Coding Proficiency and Experience
 
-**Beginner**: Followed walkthroughs, little understanding of syntax
-**Little Experience**: Able to read code and lightly understand its function
-**Intermediate**: Write small projects or scripts without notes or walkthroughs
-**Advanced**: Well versed in syntax, able to write and debug without external aid
+*   **Beginner**: Followed walkthroughs, little understanding of syntax
+*   **Little Experience**: Able to read code and lightly understand its function
+*   **Intermediate**: Write small projects or scripts without notes or walkthroughs
+*   **Advanced**: Well versed in syntax, able to write and debug without external aid
 
 | Language     | Proficiency       |
 |:-------------|:------------------|
