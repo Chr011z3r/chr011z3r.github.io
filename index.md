@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[LinkedIn]([./another-page.html](https://www.linkedin.com/in/thomas-tanzer-747b26237/)).
+[LinkedIn](https://www.linkedin.com/in/thomas-tanzer-747b26237/).
 
 # Background
 
