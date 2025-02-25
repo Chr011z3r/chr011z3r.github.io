@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to another page](./another-page.html).
+[LinkedIn]([./another-page.html](https://www.linkedin.com/in/thomas-tanzer-747b26237/)).
 
 There should be whitespace between paragraphs.
 
