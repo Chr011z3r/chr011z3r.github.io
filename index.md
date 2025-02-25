@@ -10,34 +10,29 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 I am currently a student rapidly approaching the end of my degree in Cybersecurity and Information Assurance. I first started this path as a Computer Science student on the path to becoming a software developer. As much as I enjoyed the problem solving, mathematics, and skillset that came along with software development, I quickly decided that it was not for me. That lead me to discovering the world of Cybersecurity. Since then, I have been awarded the CompTIA A+, Network+, and Security+ certifications as well as began to narrow in on a specified career path to focus in on as my coursework has done a wonderful job of laying the informational foundation.
 
-## Header 2
+# Coding Proficiency and Experience
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+**Beginner**: Followed walkthroughs, little understanding of syntax
+**Little Experience**: Able to read code and lightly understand its function
+**Intermediate**: Write small projects or scripts without notes or walkthroughs
+**Advanced**: Well versed in syntax, able to write and debug without external aid
 
-### Header 3
+| Language     | Proficiency       |
+|:-------------|:------------------|
+| Python       | Intermediate/Advanced      |
+| C, C++, C#   | Little Experience |
+| Rust         | Beginner          |
+| Bash         | Beginner          |
+| JavaScript   | Beginner          |
+| CSS          | Beginner          |
+| DuckyScript  | Beginner          |
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+# Coursework
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   IT Foundations and Applications
+*   Network and Security Foundations and Applications
+*   Digital Forensics
+*   Ethics in Technology and Cybersecurity
 
 ##### Header 5
 
