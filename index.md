@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+`FORGIVE ME THIS IS A WORK IN PROGRESS`
 
 [LinkedIn](https://www.linkedin.com/in/thomas-tanzer-747b26237/).
 
