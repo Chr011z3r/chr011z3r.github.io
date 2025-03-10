@@ -21,7 +21,7 @@ layout: default
 
 # Background
 
-I am currently a student rapidly approaching the end of my degree in Cybersecurity and Information Assurance. I first started this path as a Computer Science student on the path to becoming a software developer. As much as I enjoyed the problem solving, mathematics, and skillset that came along with software development, I quickly decided that it was not for me. That lead me to discovering the world of Cybersecurity. Since then, I have been awarded the CompTIA A+, Network+, and Security+ certifications as well as began to narrow in on a specified career path to focus in on as my coursework has done a wonderful job of laying the informational foundation.
+I am currently a student rapidly approaching the completion of my degree in Cybersecurity and Information Assurance. I first started this path as a Computer Science student on the path to becoming a software developer. As much as I enjoyed the problem solving, mathematics, and skillset that came along with software development, I quickly decided that it was not for me. That lead me to discovering the world of Cybersecurity. Since then, I have been awarded the CompTIA A+, Network+, and Security+ certifications as well as began to narrow in on a specified career path to focus in on as my coursework has done a wonderful job of laying the informational foundation.
 
 # Coding Proficiency and Experience
 
