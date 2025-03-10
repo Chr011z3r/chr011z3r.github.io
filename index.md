@@ -48,14 +48,14 @@ I am currently a student rapidly approaching the completion of my degree in Cybe
 *   Ethics in Technology and Cybersecurity
 
 # Projects
-- Homelab
+## Homelab
 
 ![Network Diagram](https://github.com/user-attachments/assets/e8a12dec-aba0-42cc-ae81-436b464485c9)
 
-  -Simple, rudimentary homelab
-  -Used primarily in Net+ and Sec+ study
-  -Communicate over an internal network, no outward facing connections
-  -Currently used to test experimental payloads
+  *  Simple homelab
+  *  Created for study purposes for Network+ and Security+
+  *  Internal network configuration with statically assigned IPv4 addresses
+  *  Currently used to test experimental payloads and code
 
 
 ### Small image
