@@ -5,7 +5,7 @@ layout: default
 `FORGIVE ME THIS IS A WORK IN PROGRESS`
 
 [LinkedIn](https://www.linkedin.com/in/thomas-tanzer-747b26237/).
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3143482" style='border:none;'></iframe>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3143482"></iframe>
 
 <dl>
 <dt>Name</dt>
