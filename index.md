@@ -5,6 +5,7 @@ layout: default
 `FORGIVE ME THIS IS A WORK IN PROGRESS`
 
 [LinkedIn](https://www.linkedin.com/in/thomas-tanzer-747b26237/).
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3143482" style='border:none;'></iframe>
 
 <dl>
 <dt>Name</dt>
@@ -48,19 +49,6 @@ I am currently a student rapidly approaching the end of my degree in Cybersecuri
 
 # Projects
 
-- Coding
-  - Python
-  - C
-  - Bash
-- Virtualization
-  - Homelab
-  - Simulated SOC
-- Hardware
-  - Micro Computer
-
-# Practice
-
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3143482" style='border:none;'></iframe>
 
 ### Small image
 
