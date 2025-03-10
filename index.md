@@ -60,7 +60,7 @@ I am currently a student rapidly approaching the end of my degree in Cybersecuri
 
 # Practice
 
-(<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3143482" style='border:none;'></iframe>)
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3143482" style='border:none;'></iframe>
 
 ### Small image
 
