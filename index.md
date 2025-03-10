@@ -49,7 +49,9 @@ I am currently a student rapidly approaching the completion of my degree in Cybe
 
 # Projects
 - Homelab
+
 ![Network Diagram](https://github.com/user-attachments/assets/e8a12dec-aba0-42cc-ae81-436b464485c9)
+
   -Simple, rudimentary homelab
   -Used primarily in Net+ and Sec+ study
   -Communicate over an internal network, no outward facing connections
