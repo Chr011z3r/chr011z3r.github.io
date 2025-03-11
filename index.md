@@ -53,9 +53,8 @@ I plan to continually update this webpage as I continue to reach milestones or a
 ### Cyber-Range
 *   Cybersecurity Theory
     1. Security Frameworks
-       - NIST 800-37
-       - NIST 800-53
-       - NIST 800-61
+       - NIST Cybersecurity Framework
+       - NIST 800-37, 53, 61, 30, 160
     3. Security Regulations and Standards
     4. Security Operations Center (SOC)
 *   Vulnerability Management (using Tenable)
