@@ -49,6 +49,7 @@ I plan to continually update this webpage as I continue to reach milestones or a
 *   Network and Security Foundations and Applications
 *   Digital Forensics
 *   Ethics in Technology and Cybersecurity
+
 ### Cyber-Range
 *   Cybersecurity Theory
     1. Security Frameworks
