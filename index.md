@@ -22,7 +22,9 @@ layout: default
 
 # Background
 
-I am currently a student rapidly approaching the completion of my degree in Cybersecurity and Information Assurance. I first started this path as a Computer Science student on the path to becoming a software developer. As much as I enjoyed the problem solving, mathematics, and skillset that came along with software development, I quickly decided that it was not for me. That lead me to discovering the world of Cybersecurity. Since then, I have been awarded the CompTIA A+, Network+, and Security+ certifications as well as began to narrow in on a specified career path to focus in on as my coursework has done a wonderful job of laying the informational foundation.
+I am currently a student rapidly approaching the completion of my degree in Cybersecurity and Information Assurance. I first started this path as a Computer Science student on the path to becoming a software developer. As much as I enjoyed the problem solving, mathematics, and skillset that came along with software development, I quickly decided that it was not for me. That lead me to discovering the world of Cybersecurity. Since then, I have been awarded many certifications as well as began to narrow in on a specified career path to focus in on as my coursework has done a wonderful job of laying the informational foundation.
+
+I plan to continually update this webpage as I continue to reach milestones or achievements. This page will serve as insight into my previous works in totality.
 
 # Coding Proficiency and Experience
 
@@ -42,21 +44,24 @@ I am currently a student rapidly approaching the completion of my degree in Cybe
 | DuckyScript  | Beginner          |
 
 # Coursework
-
+### Degree
 *   IT Foundations and Applications
 *   Network and Security Foundations and Applications
 *   Digital Forensics
 *   Ethics in Technology and Cybersecurity
+### Cyber-Range
+
+# Experiences
 
 # Projects
-## Homelab
+### Homelab
 
-![Network Diagram](https://github.com/user-attachments/assets/e8a12dec-aba0-42cc-ae81-436b464485c9)
+ ![Network Diagram](https://github.com/user-attachments/assets/e8a12dec-aba0-42cc-ae81-436b464485c9)
 
-  *  Simple homelab
-  *  Created for study purposes for Network+ and Security+
-  *  Internal network configuration with statically assigned IPv4 addresses
-  *  Currently used to test experimental payloads and code
+   *  Simple homelab
+   *  Created for study purposes for Network+ and Security+
+   *  Internal network configuration with statically assigned IPv4 addresses
+   *  Currently used to test experimental payloads and code
 
 
 ### Small image
