@@ -50,8 +50,24 @@ I plan to continually update this webpage as I continue to reach milestones or a
 *   Digital Forensics
 *   Ethics in Technology and Cybersecurity
 ### Cyber-Range
+*   Cybersecurity Theory
+    1. Security Frameworks
+       - NIST 800-37
+       - NIST 800-53
+       - NIST 800-61
+    3. Security Regulations and Standards
+    4. Security Operations Center (SOC)
+*   Vulnerability Management (using Tenable)
+    
 
-# Experiences
+# Certifications
+### CompTIA
+*   A+ (May 2024)
+*   Network+ (October 2024)
+*   Security+ (December 2024)
+
+# Experience
+
 
 # Projects
 ### Homelab
