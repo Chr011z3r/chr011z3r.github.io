@@ -49,22 +49,13 @@ I plan to continually update this webpage as I continue to reach milestones or a
 *   Network and Security Foundations and Applications
 *   Digital Forensics
 *   Ethics in Technology and Cybersecurity
-
-### Cyber-Range
-*   Cybersecurity Theory
-    1. Security Frameworks
-       - NIST Cybersecurity Framework
-       - NIST 800-37, 53, 61, 30, 160
-    3. Security Regulations and Standards
-    4. Security Operations Center (SOC)
-*   Vulnerability Management (using Tenable)
     
-
 # Certifications
-### CompTIA
-*   A+ (May 2024)
-*   Network+ (October 2024)
-*   Security+ (December 2024)
+*   CompTIA A+
+*   CompTIA Network+
+*   CompTIA Security+
+*   ITIL 4
+*   LPI Linux Essentials
 
 # Experience
 
@@ -74,13 +65,9 @@ I plan to continually update this webpage as I continue to reach milestones or a
 
  ![Network Diagram](https://github.com/user-attachments/assets/e8a12dec-aba0-42cc-ae81-436b464485c9)
 
-   *  Simple homelab
+   *  Simple homelab, used for basic communication between the systems
    *  Created for study purposes for Network+ and Security+
    *  Internal network configuration with statically assigned IPv4 addresses
-   *  Currently used to test experimental payloads and code
-
-
-### Small image
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
