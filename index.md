@@ -38,10 +38,8 @@ I plan to continually update this webpage as I continue to reach milestones or a
 | Python       | Intermediate/Advanced      |
 | C, C++, C#   | Little Experience |
 | Rust         | Beginner          |
-| Bash         | Beginner          |
 | JavaScript   | Beginner          |
 | CSS          | Beginner          |
-| DuckyScript  | Beginner          |
 
 # Coursework
 ### Degree
@@ -56,9 +54,12 @@ I plan to continually update this webpage as I continue to reach milestones or a
 *   CompTIA Security+
 *   ITIL 4
 *   LPI Linux Essentials
+*   CompTIA Project+
 
 # Experience
-
+Help Desk
+    * Hardware Repairs
+    * Reimaging of machines for deployment
 
 # Projects
 ### Homelab
@@ -68,10 +69,4 @@ I plan to continually update this webpage as I continue to reach milestones or a
    *  Simple homelab, used for basic communication between the systems
    *  Created for study purposes for Network+ and Security+
    *  Internal network configuration with statically assigned IPv4 addresses
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
